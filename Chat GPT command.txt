@@ -1,0 +1,53 @@
+__________________________________________________________________________________________
+|                                                                                          |
+|                       CHATGPT EXPERT CHEAT SHEET: SHORT COMMANDS                         |
+|                      ============================================                        |
+|                                                                                          |
+|   ChatGPT se behtareen output nikalwane ke liye in short commands aur templates ko       |
+|   apne paas copy-paste karke rakh lein:                                                  |
+|                                                                                          |
+| ┌──────────────────────┬──────────────────────────────────────┬────────────────────────┐ |
+| │     COMMAND / CODE   │             WHAT IT DOES                     │      WHEN TO USE?      │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ "Act as [Role]"      │ AI ko ek specific expert bana deta   │ "Act as a senior Python│ |
+| │                      │ hai (jaise coder, lawyer, copywriter)│ developer..."          │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ "TL;DR"              │ Kisi bhi lambay article ya notes ko  │ Bohat bare text ke     │ |
+| │                      │ short summary me convert karna.      │ aakhir me likhein.     │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ "Explain Like I'm 5" │ Mushkil topic ko bilkul aasan misalon│ "ELI5: Quantum         │ |
+| │ (or "ELI5")          │ ke sath samjhana (no jargon).        │ Computing."            │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ "Format as Table"    │ Data ko paragraphs ke bajaye saaf    │ "Compare Linux vs      │ |
+| │                      │ columns aur rows me organize karna.  │ Windows. Format as     │ |
+| │                      │                                      │ table."                │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ "Think step-by-step" │ AI ko jaldbazi me ghalat jawab dene  │ Math, coding, ya complex│ |
+| │                      │ se rokta hai (Chain of Thought).     │ logic solve karne me.  │ |
+| └──────────────────────┴──────────────────────────────────────┴────────────────────────┘ |
+|                                                                                          |
+| ┌──────────────────────────────────────────────────────────────────────────────────────┐ |
+| │                     THE ULTIMATE "MASTER PROMPT" (Sab Se Bada Code)                  │ |
+| ├──────────────────────────────────────────────────────────────────────────────────────┤ |
+| │  "I want you to write [Task]. But before you start, ask me 3 questions that will     │ |
+| │   help you give the best possible output."                                           │ |
+| │                                                                                      │ |
+| │  --> Is command ka faida: AI direct tukka marne ke bajaye aapse requirements pooch   │ |
+| │      kar bilkul 100% accurate jawab likhega!                                         │ |
+| └──────────────────────────────────────────────────────────────────────────────────────┘ |
+|                                                                                          |
+|  🎯 SMART TRICKS FOR QUICK CHATS:                          💡 Expert Rule of Thumb:       |
+| ──────────────────────────────────                         ────────────────────────       |
+|  * Tone Changer: Apne likhe hue text ko professional       -> "Output constraints apply   |
+|    ya casual banane ke liye likhein: "Rewrite this in         karein": ChatGPT ko limit   |
+|    a [professional/persuasive] tone."                         karein, jaise: "Write in   |
+|  * Code Only: Coding ke waqt faltu ki baaton se bachne        exactly 3 bullet points"   |
+|    ke liye likhein: "Give me code only. No explanations."     ya "Max 100 words."        |
+|                                                                                          |
+|   Try This Now!                                                                          |
+|  ───────────────                                       ┌─────────────┐                   |
+|   Apne kisi bhi mushkil sawal ke sath sirf 'ELI5'      │   Be Pro!   │                   |
+|   likh kar bhejien aur dekhein ke AI kitne aasan       │    🤖⚡     │                   |
+|   andaz me jawab deta hai!                             │(Smart Promp)│                   |
+|                                                        └─────────────┘                   |
+|__________________________________________________________________________________________|

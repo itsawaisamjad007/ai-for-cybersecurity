@@ -1,0 +1,51 @@
+__________________________________________________________________________________________
+|                                                                                          |
+|                       AI SYSTEM SHORTCUTS & PROMPT CODE TAGS                             |
+|                      ========================================                            |
+|                                                                                          |
+|   In tags ko apne prompt ke shuru ya aakhir me brackets '[ ]' ya slash '/' ke sath       |
+|   likhein taake AI backend par specific behaviors ko trigger kar sake:                   |
+|                                                                                          |
+| ┌──────────────────────┬──────────────────────────────────────┬────────────────────────┐ |
+| │      CODE TAG        │             WHAT IT TRIGGERS                 │      EXAMPLE USE       │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ [HANDWRITTEN NOTES]  │ AI output ko clean handwritten text  │ "[HANDWRITTEN NOTES]   │ |
+| │   ya /NOTEBOOK       │ layout, boxes aur registers ki       │ Linux commands ka      │ |
+| │                      │ shakal me design karta hai.          │ cheat sheet banao."    │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ [X10THINK]           │ AI ko normal soch se 10 guna deep     │ "[X10THINK] Quantum    │ |
+| │   ya [DEEP THINKING] │ chain-of-thought analysis karne par  │ cryptography ke risks  │ |
+| │                      │ majboor karta hai (complex logic).   │ analyze karo."         │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ [EL10]               │ "Explain Like I'm 10" -- Easy to     │ "AI neural networks    │ |
+| │                      │ understand, non-technical language   │ kya hain? [EL10]"      │ |
+| │                      │ aur daily life analogies ke sath.    │                        │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ [NO_PROSE]           │ Faltu ki baatein ("Sure, here is...")│ "Create a CSS box.     │ |
+| │   ya /CODE_ONLY      │ aur introduction band karke direct    │ [NO_PROSE]"            │ |
+| │                      │ code ya point deliver karta hai.     │                        │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ [TABLE_ONLY]         │ Poora response sirf aur sirf ek      │ "[TABLE_ONLY] Compare  │ |
+| │                      │ structured Markdown table me deta hai│ RAM vs ROM speeds."    │ |
+| ├──────────────────────┼──────────────────────────────────────┼────────────────────────┤ |
+| │ [TL;DR]              │ Kisi lambi research, PDF ya text ko  │ "[TL;DR] of this       │ |
+| │                      │ sirf 3 bullet points me summarize    │ article: [Paste Text]" │ |
+| │                      │ kar deta hai.                        │                        │ |
+| └──────────────────────┴──────────────────────────────────────┴────────────────────────┘ |
+|                                                                                          |
+|  🔥 ADVANCED COMMAND COMBOS (Inhe mila kar use karein):   💡 Golden Rule of Tags:        |
+| ────────────────────────────────────────────────────────   ───────────────────────        |
+|  Aap in tags ko aapas me mila kar super-prompts bana       -> Hamesha bracket '[ ]' use   |
+|  sakte hain, jaise:                                           karein taake AI ko saaf     |
+|                                                               pata chale ke ye system     |
+|  * "[HANDWRITTEN NOTES] [EL10] Server-client model"           instruction hai, koi aam    |
+|    --> Is se server-client model bilkul bacha-level           baat nahi.                  |
+|        misaal ke sath register layout me ban kar aayega.                                  |
+|                                                                                           |
+|   Quick Practice Task                                                                    |
+|  ──────────────────────                                ┌─────────────┐                   |
+|   Agli baar jab aap koi complex coding ya system design │ Smart Codes │ 4. Output me     |
+|   seekhein, to ye combo try karein:                     │    🧠⚡     │    sirf raw      |
+|   "[X10THINK] [NO_PROSE] [Your Topic]"                  │ (Direct AI) │    code chahiye  |
+|                                                         └─────────────┘    to kya lagayein?|
+|__________________________________________________________________________________________|

@@ -1,0 +1,59 @@
+__________________________________________________________________________________________
+|                                                                                          |
+|                 🛡️ ULTIMATE AI SYSTEM TAGS FOR CYBER SECURITY & STUDY 🛡️                  |
+|                 =========================================================                |
+|                                                                                          |
+|==========================================================================================|
+|  1. STUDY & ACADEMIC TAGS (Padhai aur Concepts Clear Karne Ke Liye)                      |
+|==========================================================================================|
+|  * [FEYNMAN_MODE]      --> AI mushkil concepts ko sab se aasan misalon ke sath padhata    |
+|                            hai jaise aap kisi 5 saal ke bache ko sikha rahe hon.         |
+|  * [ACTIVE_RECALL]     --> AI direct jawab dene ke bajaye aapse questions poochta hai     |
+|                            taake aapka dimaag active ho kar soche (Socratic Method).     |
+|  * [FLASHCARD_GEN]     --> Kisi bhi topic ya notes ko "Question | Answer" ke format me    |
+|                            break kar deta hai jo Anki ya quiz ke liye behtareen hai.     |
+|  * [ROADMAP_ONLY]      --> Faltu theories ke bina step-by-step learning path deta hai     |
+|                            jisme timelines aur free resources ke links shamil hon.       |
+|  * [ANALOGY_X3]        --> Kisi bhi boring topic ko samjhane ke liye 3 real-world        |
+|                            analogies (daily-life examples) deta hai.                     |
+|                                                                                          |
+|==========================================================================================|
+|  2. CYBER SECURITY & LAB TAGS (Hacking aur Protection Labs Ke Liye)                      |
+|==========================================================================================|
+|  * [RED_TEAM_MIND]     --> AI system vulnerabilities ko exploit karne ka offensive hacker|
+|                            mindset trigger karta hai (for legal/ethical hacking labs).   |
+|  * [BLUE_DEFENDER]     --> AI defensive mindset me chala jata hai (hardening, firewall,   |
+|                            log analysis, aur threat mitigation par focus karta hai).     |
+|  * [PCAP_ANALYST]      --> Wireshark aur network packets data ko analyze karne ke liye    |
+|                            AI ko dynamic deep analysis mode me dalta hai.                |
+|  * [MAL_REVERSE]       --> Assembly code, binary, ya decompiled code ko dissect karke     |
+|                            malware ke behavior ko analyze karne ke liye use hota hai.    |
+|  * [RISK_MATRIX]       --> Security threats ko Risk, Likelihood, aur Impact (High/Medium/ │
+|                            Low) ki tables me break kar ke compliance formats me deta hai.│
+|                                                                                          |
+|==========================================================================================|
+|  3. CODING & DEBUGGING TAGS (Scripts aur Automation Ke Liye)                             |
+|==========================================================================================|
+|  * [DEBUG_FLOW]        --> Code me bug dhoondne ke liye sirf theek code nahi deta, balki  |
+|                            step-by-step flow chart aur logic error ki wajah batata hai.  |
+|  * [ONE_LINER]         --> Heavy scripts ke bajaye complex Linux commands ya Bash ko      |
+|                            ek single line terminal command me convert kar deta hai.      |
+|  * [SECURE_CODE]       --> Kisi bhi normal code ko rewrite karta hai SQL-Injection, XSS,  |
+|                            aur buffer overflow vulnerabilities se secure karne ke liye.  |
+|  * [COMMENT_PRO]       --> Code ke har ek function aur variable ke sath clean professional|
+|                            documentation aur explanations comments add kar deta hai.     |
+|  * [REGEXP_EXPLAIN]    --> Mushkil Regular Expressions (Regex) jo log analysis me use     |
+|                            hote hain, unka ek ek character decode kar ke samjhata hai.   |
+|                                                                                          |
+|==========================================================================================|
+|  💡 PRO COMBOS FOR CYBER SECURITY:                                                       |
+|------------------------------------------------------------------------------------------|
+|  Aap in tags ko mila kar custom environments trigger kar sakte hain:                     |
+|                                                                                          |
+|  * "[BLUE_DEFENDER] [HANDWRITTEN NOTES] Secure Apache Webserver configuration"            |
+|    --> Apache ko secure karne ki register-style quick checklist mil jayegi.              |
+|  * "[RED_TEAM_MIND] [ONE_LINER] Nmap port scan script for active hosts"                  |
+|    --> Direct attack point-of-view se single line powerful commands milengi.             |
+|  * "[FEYNMAN_MODE] [X10THINK] Diffie-Hellman Key Exchange algorithm"                     |
+|    --> Complex cryptography concept dimaag me bilkul asani se baith jayega.              |
+|__________________________________________________________________________________________|
